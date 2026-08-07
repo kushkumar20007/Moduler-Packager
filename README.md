@@ -262,6 +262,10 @@ if __name__ == "__main__":
 This ensures that **demo code runs only when the file is executed directly**, not when it is imported.
 
 ---
+## 🎥🎞️ Video Demonstration
+
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](video)
+
 
 # 📊 Example Output
 
