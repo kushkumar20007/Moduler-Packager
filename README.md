@@ -267,7 +267,7 @@ This ensures that **demo code runs only when the file is executed directly**, no
 [![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](video)
 
 
-# 📊 Example Output
+# 📊 Output
 
 ## OTP
 
