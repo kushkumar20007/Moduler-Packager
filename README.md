@@ -269,23 +269,14 @@ This ensures that **demo code runs only when the file is executed directly**, no
 
 # 📊 Output
 
-## OTP
+<img width="932" height="901" alt="image" src="https://github.com/user-attachments/assets/218414ca-e1d4-43bf-bc77-1b86e30f9ac7" />
+<img width="954" height="884" alt="image" src="https://github.com/user-attachments/assets/3d8df1b5-012d-4ea2-911c-b07e482002e8" />
+<img width="982" height="918" alt="image" src="https://github.com/user-attachments/assets/a86e4358-e11f-41ff-b4b1-a2d2b38d1573" />
+<img width="1268" height="868" alt="image" src="https://github.com/user-attachments/assets/d6c4a5f3-9615-457a-92fb-df3787b01e47" />
 
-```text
-Generated OTP: 483921
-```
 
-## UUID
 
-```text
-Invoice ID: 7c3b2d4e-91f4-4f1a-9c2a-8e7d5f4a1c22
-```
 
-## Compound Interest
-
-```text
-Final Amount: 11025.0
-```
 
 ---
 
