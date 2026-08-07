@@ -1,7 +1,14 @@
 # 🚀 Multi-Utility Toolkit (Moduler & Packager)
 
-A Python-based **Multi-Utility Toolkit** that demonstrates the practical use of **built-in modules, custom modules, and packages**.
-The project is designed with a **modular architecture** so that each feature can be reused independently.
+## Objective
+
+* **Explore Built-in Modules:** Utilize `datetime`, `time`, `math`, `random`, and `uuid` modules for practical tasks.
+* **Custom Modules and Packages:**
+
+  * Create modular Python scripts for specific functionalities.
+  * Organize them into packages with an `__init__.py` file to demonstrate package usage.
+* **Script Organization:** Implement `__name__` and `__main__` to separate reusable components and main execution logic.
+* **Dynamic Exploration:** Use the `dir()` function to explore module attributes dynamically.
 
 ---
 
